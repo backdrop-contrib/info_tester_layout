@@ -1,0 +1,13 @@
+name = Info Tester layout.
+description = Test layout to test info file data on BackdropCMS.org
+backdrop = 1.x
+type = layout
+
+; Layouts can have tags, maintainers, and screenshots.
+
+tags[] = Testing
+tags[] = Development
+
+maintainers[] = docwilmot
+maintainers[] = bugfolder
+
